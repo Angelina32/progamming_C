@@ -10,7 +10,7 @@ int main()
 
 	std::cin >> n;
 
-	for (int k = 1; k <= n; k++)
+	for (int k = 1; k <= n; k++) 
 	{
 		f = f * k;
 		Summ = Summ + pow(2, k) / ((1 + pow(a, 2) + pow(b, 2)) * f);
