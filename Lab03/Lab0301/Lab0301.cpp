@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_CTYPE, "ukr");
+    setlocale(LC_CTYPE, "ukr"); 
     int a, b;
     cout << "Ввести a ";
     cin >> a;
