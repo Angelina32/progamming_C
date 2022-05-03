@@ -20,7 +20,7 @@ int main()
     }
     else {
         a = *aPtr / 2;
-        cout << "a=" << a;
+        cout << "a=" << a; /n
         b = *bPtr + 3;
         cout << "b=" << b;
     }
